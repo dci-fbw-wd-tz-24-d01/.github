@@ -14,6 +14,6 @@
 | UIB - User Interface Basics    | 15 April | 11 July     |
 | PB  - Programming Basics       | 15 July | 22 October |
 | SPA - Single Page Applications | 23 October | 03 February 2025   |
-| BE - Backend                   | 05 February  | 06 June      |
-| Final Project                  | 06 June  | 14 August          | 
+| BE - Backend                   | 04 February  | 06 May      |
+| Final Project                  | 07 May  | 14 July          | 
 
