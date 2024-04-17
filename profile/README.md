@@ -8,12 +8,13 @@
 
 ## Course calendar
 
-| Module                         | Start       | End |
-| ------------------------------ | -------------------------- |---|
-| BDL - Basic Digital Literacy   | 18 March | 10 April          |
-| UIB - User Interface Basics    | 15 April | 11 July     |
-| PB  - Programming Basics       | 15 July | 22 October |
-| SPA - Single Page Applications | 23 October | 03 February 2025   |
-| BE - Backend                   | 04 February  | 06 May      |
-| Final Project                  | 07 May  | 14 July          | 
+  
+|Module  | Start | End  | Duration | 
+|--|--| --|  -- |
+| BDL - Basic Digital Literacy |18 March   | 10 April | 2 weeks|
+| UIB - User Interface Basics | 15 April | 11 July | 9 weeks | 
+| PB - Programming Basics | 15 July | 22 October | 9 weeks | 
+| SPA - Single Page Applications | 23 October | 03 February 2025 | 9 weeks | 
+| BE - Backend | 05 February | 06 May |9 weeks | 
+| Final Project | 07 May|  14 July |7 weeks | 
 
